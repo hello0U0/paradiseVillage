@@ -2,9 +2,6 @@
 2019SUMMER_KING_NDM_PARADISEVILLAGE_MOBILEGAME
 
 ## 만든이
- - 기획: 김유진
- - 코더: 박유진, 이효정
- - 그래픽: 박서희
 
 ## 플레이 스크린 샷
 
